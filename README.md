@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Maruf Islam</h1>
-<h3 align="center">> 💻 MERN Stack Developer (in Progress) | Front-End Complete | Learning to Build Real-World Projects | Future Software Engineer</h3>
+<h3 align="center">> 💻 MERN Stack Developer (in Progress) | Front-End Complete | Learning to Build Real-World Projects |</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
