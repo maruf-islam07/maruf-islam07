@@ -18,25 +18,33 @@
 ## 🌐 Connect with Me
 <h3 align="left">🌐 Connect with Me</h3>
 
+<h3 align="left">🌐 Connect with Me</h3>
+
 <p align="left">
+
   <a href="https://fb.com/OrdinaryMaruf07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+      height="40" 
+      width="40"
+      style="border-radius:50%; padding:6px; background:#1877F2; transition:0.3s;"
+    />
   </a>
-  <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank" style="margin-left:10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+
+  
+
+  <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      height="40" 
+      width="40"
+      style="border-radius:50%; padding:6px; background:#0A66C2; transition:0.3s;"
+    />
   </a>
+
 </p>
 
 
-<p align="left">
-<a href="https://fb.com/OrdinaryMaruf07" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
-<a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
 
 ---
 
