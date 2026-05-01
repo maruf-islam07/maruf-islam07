@@ -1,35 +1,103 @@
 <h1 align="center">Hi 👋, I'm Md Maruf Islam</h1>
-<h3 align="center">> 💻 MERN Stack Developer (in Progress) | Front-End Complete | Learning to Build Real-World Projects |</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer+(Learning);React+%7C+Next.js+%7C+TypeScript;Building+Real+World+Projects+🚀" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maruf-islam07&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 💻 Frontend Developer focused on **React, Next.js & TypeScript**
+* 🚀 Currently learning **MERN Stack (Node.js, Express, MongoDB)**
+* 🎯 Passionate about building **real-world scalable apps**
+* ⚡ Clean code • Performance • UI/UX
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://fb.com/OrdinaryMaruf07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmarufislam2" height="30" width="40" /></a>
-  
+<a href="https://fb.com/OrdinaryMaruf07" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
 <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="OrdinaryMaruf07" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5]
+---
 
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React JS" width="40" height="40"/>
-  </a>
+### 💻 Core
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### ⚛️ Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
+
+### 🎨 Styling
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 E-commerce App
+
+* Cart system + filtering
+* Redux Toolkit state management
+  👉 Live: https://your-live-link.com
+  👉 Code: https://github.com/maruf-islam07/project-link
+
+---
+
+### 📰 News Portal
+
+* API-based dynamic content
+  👉 Live: https://your-live-link.com
+  👉 Code: https://github.com/maruf-islam07/project-link
+
+---
+
+### 🎨 Portfolio Website
+
+* Clean responsive UI
+  👉 Live: https://your-live-link.com
+  👉 Code: https://github.com/maruf-islam07/project-link
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf-islam07&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-islam07&theme=radical" />
 </p>
+
+---
+
+## 💼 Open to Work
+
+🚀 Looking for Frontend / Junior MERN Developer roles
+
+---
+
+⭐ Follow me for projects & learning journey 🚀
+
 
 
