@@ -57,7 +57,7 @@
 
 * Cart system + filtering
 * Redux Toolkit state management
-  👉 Live: [cartup-in4i62p3c-maruf-islam07s-projects.vercel.app]
+  👉 Live: [https://cartup-app.vercel.app/]
   👉 Code: [GitHub](https://github.com/maruf-islam07/Cartup-App)
 
 ---
