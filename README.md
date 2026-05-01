@@ -24,7 +24,7 @@
       height="42" 
     />
   <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank" style="margin-left:10px;">
-    <img  src="https://img.icons8.com/fluency/48/facebook-new.png" height="42" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"  height="42" />
   </a> 
 </p>
 
@@ -57,31 +57,23 @@
 
 * Cart system + filtering
 * Redux Toolkit state management
-  👉 Live: https://your-live-link.com
-  👉 Code: https://github.com/maruf-islam07/project-link
-
----
-
-### 📰 News Portal
-
-* API-based dynamic content
-  👉 Live: https://your-live-link.com
-  👉 Code: https://github.com/maruf-islam07/project-link
+  👉 Live:[CartUp](cartup-in4i62p3c-maruf-islam07s-projects.vercel.app)
+  👉 Code: [GitHub](https://github.com/maruf-islam07/Cartup-App)
 
 ---
 
 ### 🎨 Portfolio Website
 
 * Clean responsive UI
-  👉 Live: [https://your-live-link.com](https://my-portfolio-rose-one-94.vercel.app/)
-  👉 Code: https://github.com/maruf-islam07/project-link
+  👉 Live: [Portfolio](https://my-portfolio-rose-one-94.vercel.app/)
+  👉 Code:[GitHub](https://github.com/maruf-islam07/My-portfolio)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf-islam07&show_icons=true&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=maruf-islam07&show_icons=true&theme=radical" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-islam07&theme=radical" />
 </p>
 
