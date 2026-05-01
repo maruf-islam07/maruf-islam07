@@ -17,7 +17,7 @@
 
 <h3 align="left">🌐 Connect With Me</h3>
 
-<p align="left">
+<p align="left" style="display:flex; align-items:center; gap:18px;">
 
   <a href="https://fb.com/OrdinaryMaruf07" target="_blank">
     <img 
@@ -27,8 +27,6 @@
       style="border-radius:50%; padding:6px; background:#1877F2;"
     />
   </a>
-
-  
 
   <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank">
     <img 
@@ -40,6 +38,7 @@
   </a>
 
 </p>
+
 
 
 
