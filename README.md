@@ -6,15 +6,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maruf-islam07&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🚀 About Me
 
-* 💻 Frontend Developer focused on **React, Next.js & TypeScript**
+* 💻 Frontend Developer focused on **React, Redux Toolkit, React Query, Next.js & TypeScript**
 * 🚀 Currently learning **MERN Stack (Node.js, Express, MongoDB)**
 * 🎯 Passionate about building **real-world scalable apps**
 * ⚡ Clean code • Performance • UI/UX
@@ -22,8 +16,19 @@
 ---
 
 ## 🌐 Connect with Me
+<h3 align="left">🌐 Connect with Me</h3>
 
-<p align="center">
+<p align="left">
+  <a href="https://fb.com/OrdinaryMaruf07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+  </a>
+  <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank" style="margin-left:10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+</p>
+
+
+<p align="left">
 <a href="https://fb.com/OrdinaryMaruf07" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
