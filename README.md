@@ -16,10 +16,10 @@
 ---
 <p align="left">
   <a href="https://fb.com/OrdinaryMaruf07" target="_blank" style="margin-left:10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" 
-      width="30"
-      style="border-radius:50%; padding:6px; background:#1877F2;" />
-  </a>
+  <img 
+      src="https://img.icons8.com/fluency/48/facebook-new.png" 
+      height="30" 
+    />
   <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank" style="margin-left:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a> 
