@@ -11,6 +11,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5]
+
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 20px;"/>
