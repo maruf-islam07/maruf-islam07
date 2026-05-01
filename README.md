@@ -57,7 +57,7 @@
 
 * Cart system + filtering
 * Redux Toolkit state management
-  👉 Live:![CartUp](cartup-in4i62p3c-maruf-islam07s-projects.vercel.app)
+  👉 Live:(cartup-in4i62p3c-maruf-islam07s-projects.vercel.app)
   👉 Code: [GitHub](https://github.com/maruf-islam07/Cartup-App)
 
 ---
@@ -65,7 +65,7 @@
 ### 🎨 Portfolio Website
 
 * Clean responsive UI
-  👉 Live: ![Portfolio](https://my-portfolio-rose-one-94.vercel.app/)
+  👉 Live: (https://my-portfolio-rose-one-94.vercel.app/)
   👉 Code:[GitHub](https://github.com/maruf-islam07/My-portfolio)
 
 ---
