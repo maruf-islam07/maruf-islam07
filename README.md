@@ -14,6 +14,16 @@
 * ⚡ Clean code • Performance • UI/UX
 
 ---
+<p align="left">
+  <a href="https://fb.com/OrdinaryMaruf07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+  </a>
+  <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank" style="margin-left:10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+</p>
+
+
 
 <h3 align="left">🌐 Connect With Me</h3>
 
