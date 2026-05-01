@@ -14,6 +14,9 @@
 * ⚡ Clean code • Performance • UI/UX
 
 ---
+
+<h3 align="left">🌐 Connect With Me</h3>
+
 <p align="left">
   <a href="https://fb.com/OrdinaryMaruf07" target="_blank" style="margin-left:10px;">
   <img 
@@ -21,38 +24,9 @@
       height="42" 
     />
   <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank" style="margin-left:10px;">
-    <img  src="https://img.icons8.com/fluency/48/facebook-new.png height="42" />
+    <img  src="https://img.icons8.com/fluency/48/facebook-new.png" height="42" />
   </a> 
 </p>
-
-
-
-<h3 align="left">🌐 Connect With Me</h3>
-
-<p align="left" style="display:flex">
-
-  <a href="https://fb.com/OrdinaryMaruf07" target="_blank">
-    <img 
-      src="https://img.icons8.com/fluency/48/facebook-new.png" 
-      height="42" 
-      width="42"
-      style="border-radius:50%; padding:6px; background:#1877F2;"
-    />
-  </a>
-
-  <a href="https://bd.linkedin.com/in/maruf-islam07" target="_blank">
-    <img 
-      src="https://img.icons8.com/fluency/48/linkedin.png" 
-      height="42" 
-      width="42"
-      style="border-radius:50%; padding:6px; background:#0A66C2;"
-    />
-  </a>
-
-</p>
-
-
-
 
 
 ---
